@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-pwcxlm.wedang77land.store/sitemap.xml
